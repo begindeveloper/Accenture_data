@@ -10,4 +10,15 @@ In the simulation I:
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 
 Skills I gained are:
- #Communication #dataanalysis #datamodeling #dataunderstanding #datavisualization #presentations #projectplanning #publicspeaking #strategy
+ Communication 
+ Data Analysis 
+ Data Modeling 
+ Data Understanding 
+ Data Visualization 
+ Presentations 
+ Project Planning 
+ Public Speaking 
+ Strategy
+
+
+<img src="https://github.com/begindeveloper/Accenture_data/blob/main/Screenshot%202024-12-20%20at%208.50.07%E2%80%AFPM.png" width="1000" height="500">
